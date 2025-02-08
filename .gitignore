@@ -1,9 +1,12 @@
 __pycache__/
 .venv/
 .idea/
+.idea
+idea
 .env
 *.pyc
 *.pyo
 *.pyd
 *.db
 *.sqlite3
+/ssh_key.txt
