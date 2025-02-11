@@ -3,3 +3,8 @@ uvicorn
 tortoise-orm
 httpx
 python-dotenv
+python-weather
+requests
+asyncpg
+pydantic
+pydantic_settings
